@@ -1,0 +1,22 @@
+.content{
+    display: inline-flex;
+    justify-content: center;
+    gap: 200px;
+    padding: 5%;
+    box-sizing: border-box;
+    align-items: center;
+    
+
+}
+.formLayout {
+  background-color: white;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+      gap: 200px;
+    padding: 2%;
+  font-size: calc(10px + 2vmin);
+  color: navy;
+}
